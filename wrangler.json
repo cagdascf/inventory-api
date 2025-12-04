@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "inventory-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "59f05280-1651-48c6-bc42-2d436b324bb9",
+			"database_name": "inventory-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
